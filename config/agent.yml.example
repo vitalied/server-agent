@@ -1,0 +1,5 @@
+---
+
+server_monitor_url: http://server_monitor_url/api/servers
+
+token: server_token
